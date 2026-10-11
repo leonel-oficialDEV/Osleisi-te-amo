@@ -139,7 +139,7 @@ export const defSets = {
   newsletter_id: '120363324350463849@newsletter',
   nameid: '꧁⃟⃝❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕CHANNEL - OFICIAL❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕᮫ִׁ᷂𐴲᮫ִׁ꧂',
   type: 'Owner',
-  link: 'https://api.yuki-wabot.my.id',
+  link: 'https://chat.whatsapp.com/DVXaI5Xf2wf7OUHgM3s5eq?s=cl&p=a&mlu=4&ilr=4',
   banner: 'https://raw.githubusercontent.com/leonel-oficialDEV/Fotos-/main/Imagen/IMG-20260929-WA0199.jpg',
   icon: 'https://raw.githubusercontent.com/leonel-oficialDEV/Fotos-/main/Imagen/IMG-20260929-WA0199.jpg',
   currency: 'Yenes',
