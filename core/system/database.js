@@ -209,7 +209,7 @@ export function initDB() {
       self BOOLEAN DEFAULT 0,
       prefix TEXT DEFAULT '[\"/\",\"!\",\".\",\"#\"]',
       commandsejecut INTEGER DEFAULT 0,
-      newsletter_id TEXT DEFAULT '120363401404146384@newsletter',
+      newsletter_id TEXT DEFAULT '120363324350463849@newsletter',
       nameid TEXT DEFAULT '꧁⃟⃝❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕CHANNEL - OFICIAL❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕᮫ִׁ᷂𐴲᮫ִׁ꧂',
       type TEXT DEFAULT 'Owner',
       link TEXT DEFAULT 'https://chat.whatsapp.com/DVXaI5Xf2wf7OUHgM3s5eq?s=cl&p=a&mlu=4&ilr=4',
