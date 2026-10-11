@@ -12,7 +12,7 @@ global.links = {
   gmail: "thekingdestroy507@gmail.com"
 }
 global.my = {
-  ch1: '120363401404146384@newsletter'
+  ch1: '120363324350463849@newsletter'
 };
 
 global.APIs = { 
