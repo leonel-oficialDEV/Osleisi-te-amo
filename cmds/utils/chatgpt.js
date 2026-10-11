@@ -68,7 +68,7 @@ export default {
     const user = db.getUser(msg.sender);
     const username = user?.name || 'usuario';
     const botname = settings.botname || 'Bot';
-    const basePrompt = `Tu nombre es ${botname} y parece haber sido creada por ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜. Tu versión actual es @latest, Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertida, y te encanta aprender. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`;
+    const basePrompt = `Tu nombre es ${botname} y parece haber sido creada por 𓆩‌۫᷼ ִֶָღܾ݉͢𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑ܾ݉ ִֶָ𓆪‌‹࣭݊𓂃ⷪ ִֶָ ᷫ‹ ⷭ.࣭𓆩‌۫᷼Ⴕ۫͜𓆪‌. Tu versión actual es @latest, Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertida, y te encanta aprender. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`;
     try {
       const { key } = await sock.sendMessage(msg.chat, { text: `ꕥ *ChatGPT* está procesando tu respuesta...` }, { quoted: msg });
       await msg.react('🕒');
