@@ -136,7 +136,7 @@ export const defSets = {
   self: 0,
   prefix: '[\"/\",\"!\",\".\",\"#\"]',
   commandsejecut: 0,
-  newsletter_id: '120363401404146384@newsletter',
+  newsletter_id: '120363324350463849@newsletter',
   nameid: '꧁⃟⃝❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕CHANNEL - OFICIAL❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕᮫ִׁ᷂𐴲᮫ִׁ꧂',
   type: 'Owner',
   link: 'https://api.yuki-wabot.my.id',
