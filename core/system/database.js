@@ -143,8 +143,8 @@ export const defSets = {
   banner: 'https://raw.githubusercontent.com/leonel-oficialDEV/Fotos-/main/Imagen/IMG-20260929-WA0199.jpg',
   icon: 'https://raw.githubusercontent.com/leonel-oficialDEV/Fotos-/main/Imagen/IMG-20260929-WA0199.jpg',
   currency: 'Yenes',
-  namebot: 'Yuki',
-  botname: 'Yuki Suou',
+  namebot: '⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪𝚂͟𝚄͟𝙼͟𝙸͟ 𝚂͟𝙰͟𝙺͟𝚄͟𝚁͟𝙰͟𝚂͟𝙰͟𝚆͟𝙰݊⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪',
+  botname: '⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪𝚂͟𝚄͟𝙼͟𝙸͟ 𝚂͟𝙰͟𝙺͟𝚄͟𝚁͟𝙰͟𝚂͟𝙰͟𝚆͟𝙰݊⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪',
   owner: ''
 };
 
@@ -212,12 +212,12 @@ export function initDB() {
       newsletter_id TEXT DEFAULT '120363401404146384@newsletter',
       nameid TEXT DEFAULT '꧁⃟⃝❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕CHANNEL - OFICIAL❀̷̸᮫ִּׁ᳟፝֟࠭͠𐋕᮫ִׁ᷂𐴲᮫ִׁ꧂',
       type TEXT DEFAULT 'Owner',
-      link TEXT DEFAULT 'https://api.yuki-wabot.my.id',
+      link TEXT DEFAULT 'https://chat.whatsapp.com/DVXaI5Xf2wf7OUHgM3s5eq?s=cl&p=a&mlu=4&ilr=4',
       banner TEXT DEFAULT 'https://raw.githubusercontent.com/leonel-oficialDEV/Fotos-/main/Imagen/IMG-20260929-WA0199.jpg',
       icon TEXT DEFAULT 'https://raw.githubusercontent.com/leonel-oficialDEV/Fotos-/main/Imagen/IMG-20260929-WA0199.jpg',
       currency TEXT DEFAULT 'Yenes',
-      namebot TEXT DEFAULT 'Yuki',
-      botname TEXT DEFAULT 'Yuki Suou',
+      namebot TEXT DEFAULT '⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪𝚂͟𝚄͟𝙼͟𝙸͟ 𝚂͟𝙰͟𝙺͟𝚄͟𝚁͟𝙰͟𝚂͟𝙰͟𝚆͟𝙰݊⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪',
+      botname TEXT DEFAULT '⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪𝚂͟𝚄͟𝙼͟𝙸͟ 𝚂͟𝙰͟𝙺͟𝚄͟𝚁͟𝙰͟𝚂͟𝙰͟𝚆͟𝙰݊⬪࣪ꥈ⃘𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪',
       owner TEXT DEFAULT ''
     )`);
   db.exec(`CREATE TABLE IF NOT EXISTS characters (id TEXT PRIMARY KEY, data TEXT)`);
